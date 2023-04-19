@@ -38,7 +38,7 @@ L'objectif de DYBoard est de pouvoir facilement créer des prototypes personnali
 
 ## A faire :
 
--README
+- README
 - Notice d'assemblage et d'utilisation
 - Utiliser les outils de configuration de SiliconLabs
 - Ajouter des photos
