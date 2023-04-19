@@ -1,0 +1,26 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: PCB_DYBoard_Bandmaster_V2.PcbDoc   23/02/2023  18:43:54
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : PCB_DYBoard_Bandmaster_V2-RoundHoles.TXT
+ASCII SlotHoles File : PCB_DYBoard_Bandmaster_V2-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      12mil (0.3mm)                                             Round             120       PTH        19.99inch (507.72mm)
+T2      20mil (0.508mm)                                           Round             51        PTH        13.20inch (335.16mm)
+T3      24mil (0.6mm)                                             Slot              4         PTH        1.50inch (38.14mm)
+T4      32mil (0.8mm)                                             Round             4         PTH        0.24inch (6.00mm)
+T5      35mil (0.9mm)                                             Round             6         PTH        4.00inch (101.72mm)
+T6      49mil (1.24mm)                                            Round             4         PTH        2.25inch (57.25mm)
+T7      55mil (1.4mm)                                             Round             3         PTH        0.30inch (7.62mm)
+T8      83mil (2.1mm)                                             Round             2         PTH        0.37inch (9.45mm)
+T9      122mil (3.1mm)                                            Round             4         PTH        12.13inch (308.00mm)
+T10     26mil (0.65mm)                                            Round             2         NPTH       0.23inch (5.78mm)
+T11     39mil (1mm)                                               Round             1         NPTH       0.00inch (0.00mm)
+T12     49mil (1.25mm)                                            Round             1         NPTH       0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              202
+
+Total Processing Time (hh:mm:ss) : 00:00:00
